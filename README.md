@@ -1,1 +1,1 @@
-MariaDb 10.1
+MariaDb version 10.1
